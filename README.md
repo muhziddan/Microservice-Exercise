@@ -1,6 +1,6 @@
 # Microservice Using .NET Exercise
 
-An Microservice exercise using .NET
+A Microservice exercise using .NET
 
 ## Reference
 
